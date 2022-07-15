@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola 👋
+
+Hola a todos me llamo Saskia Guadalupe Cutipa Coaquira, ahora estoy estudiando la carrera de ingenieria en Telecomunicaciones en la Universidad Nacional de San Agustin de Arequipa, estoy en mi segundo año de estudio en el tercer semestre.
+
+![d52f8e30-b255-465f-91d0-6ba120618b3d](https://user-images.githubusercontent.com/108014596/179251691-19b0964f-0bfe-428e-9bcf-d79d0ba02419.jpeg)
 
 <!--
 **Saskia-Cutipa/Saskia-Cutipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
